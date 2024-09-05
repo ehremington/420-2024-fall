@@ -1,0 +1,11 @@
+.solutions/
+solutions/
+exams/
+books/
+420-2022-spring/
+*~
+.ipynb_checkpoints/
+*.log
+*.aux
+*.synctex.gz
+*.autosave.xopp
