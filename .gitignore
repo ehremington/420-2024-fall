@@ -10,3 +10,4 @@ books/
 *.aux
 *.synctex.gz
 *.autosave.xopp
+.virtual_documents/
